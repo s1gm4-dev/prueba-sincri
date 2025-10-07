@@ -1,1 +1,1 @@
-# prueba-sincri
+# prueba-sincro
